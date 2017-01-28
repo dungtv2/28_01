@@ -18,6 +18,6 @@
     'application': False,
     'qweb': ['static/src/xml/listview_button_view.xml'],
     'images': [
-        'images/4.jpg',
+        'images/dynamic_lis_v8.png',
     ],
 }
